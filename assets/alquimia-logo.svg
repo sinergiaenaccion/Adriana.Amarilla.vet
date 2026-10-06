@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330">
+<rect width="520" height="330" fill="none"/>
+<circle cx="260" cy="105" r="78" fill="none" stroke="#C9A84F" stroke-width="5"/>
+<g fill="#C9A84F">
+<ellipse cx="220" cy="70" rx="17" ry="27"/>
+<ellipse cx="260" cy="58" rx="17" ry="27"/>
+<ellipse cx="300" cy="70" rx="17" ry="27"/>
+<path d="M260 92c-37 0-65 25-65 52 0 25 29 39 65 39s65-14 65-39c0-27-28-52-65-52z"/>
+</g>
+<path d="M260 116v42M239 137h42" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<path d="M247 187c-1 20 13 29 13 29s14-9 13-29" fill="none" stroke="#C9A84F" stroke-width="4"/>
+<text x="260" y="273" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#4D3B5F" letter-spacing="2">ALQUIMIA</text>
+<text x="260" y="301" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#4D3B5F" letter-spacing="3">MEDICINA VETERINARIA</text>
+<text x="260" y="322" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#4D3B5F" letter-spacing="3">INTEGRATIVA</text>
+</svg>
