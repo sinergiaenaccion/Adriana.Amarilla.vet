@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330">
-<rect width="520" height="330" fill="none"/>
-<circle cx="260" cy="105" r="78" fill="none" stroke="#C9A84F" stroke-width="5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" role="img" aria-labelledby="title desc">
+<title id="title">Alquimia Medicina Veterinaria Integrativa</title>
+<desc id="desc">Logotipo de Alquimia con huella veterinaria dorada, cruz médica, corazón y tipografía violeta.</desc>
+<rect width="600" height="560" fill="none"/>
+<path d="M300 34 A150 150 0 1 1 168 260" fill="none" stroke="#C9A84F" stroke-width="5"/>
+<path d="M432 260 A150 150 0 0 1 300 334" fill="none" stroke="#C9A84F" stroke-width="5"/>
 <g fill="#C9A84F">
-<ellipse cx="220" cy="70" rx="17" ry="27"/>
-<ellipse cx="260" cy="58" rx="17" ry="27"/>
-<ellipse cx="300" cy="70" rx="17" ry="27"/>
-<path d="M260 92c-37 0-65 25-65 52 0 25 29 39 65 39s65-14 65-39c0-27-28-52-65-52z"/>
+<ellipse cx="222" cy="122" rx="25" ry="39" transform="rotate(-25 222 122)"/>
+<ellipse cx="276" cy="103" rx="25" ry="40" transform="rotate(-8 276 103)"/>
+<ellipse cx="332" cy="103" rx="25" ry="40" transform="rotate(8 332 103)"/>
+<ellipse cx="386" cy="122" rx="25" ry="39" transform="rotate(25 386 122)"/>
+<path d="M300 151 C258 151 223 180 223 218 C223 253 257 270 300 270 C343 270 377 253 377 218 C377 180 342 151 300 151Z"/>
 </g>
-<path d="M260 116v42M239 137h42" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
-<path d="M247 187c-1 20 13 29 13 29s14-9 13-29" fill="none" stroke="#C9A84F" stroke-width="4"/>
-<text x="260" y="273" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#4D3B5F" letter-spacing="2">ALQUIMIA</text>
-<text x="260" y="301" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#4D3B5F" letter-spacing="3">MEDICINA VETERINARIA</text>
-<text x="260" y="322" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#4D3B5F" letter-spacing="3">INTEGRATIVA</text>
+<path d="M284 174h32v30h30v32h-30v30h-32v-30h-30v-32h30z" fill="#fff"/>
+<path d="M300 309 C285 289 255 296 255 320 C255 340 276 353 300 370 C324 353 345 340 345 320 C345 296 315 289 300 309Z" fill="none" stroke="#C9A84F" stroke-width="5" stroke-linejoin="round"/>
+<text x="300" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="70" fill="#4D2A61" letter-spacing="2">ALQUIMIA</text>
+<text x="300" y="472" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4D2A61" letter-spacing="4">MEDICINA VETERINARIA</text>
+<text x="300" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4D2A61" letter-spacing="4">INTEGRATIVA</text>
 </svg>
